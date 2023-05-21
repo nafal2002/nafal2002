@@ -6,8 +6,7 @@
   <p>𝖕𝖆𝖌𝖆𝖗 𝖓𝖚𝖘𝖆 </p>
   <p>la ghaliba illallah</p>
   <p>🅰🅽🆂🅾🆁</p>
-  <p>𝒩𝒶𝓃𝒾𝓂𝑜 𝓃𝒶𝓃𝒾𝓂𝑜</p>
-  <p>𝓂𝒶𝒹𝒶 𝓈𝒽𝒾𝓇𝒶𝓃𝓊</p>
+  
 <p><a href="https://www.youtube.com/channel/UCtKkLfuet8XOJxU32Eyxldg">  (My channel)</a><p>
   
 </div>
