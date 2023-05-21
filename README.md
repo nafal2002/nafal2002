@@ -26,7 +26,7 @@
 <b>Gender:</b> Male ♂️
 </li>
 <li>
-<b>Instagram:</b> [https://open.spotify.com/user/0mwjs7fi0q4ptulexer2tu9ad](https://www.instagram.com/nfalmmfdiii_/)
+<b>Instagram:</b> (https://www.instagram.com/nfalmmfdiii_/)
 </li>
 <li>
 <b>Hobbys:</b> Graphic Design, Web Development
