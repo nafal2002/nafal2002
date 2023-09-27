@@ -25,7 +25,7 @@
 <b>Gender:</b> Male ♂️
 </li>
 <li>
-<b>Instagram:</b> (https://www.instagram.com/nfalmmfdiii_/)
+<b>Instagram:</b> (https://www.instagram.com/radenmas_2002/)
 </li>
 <li>
 <b>Hobbys:</b> Graphic Design, Web Development
