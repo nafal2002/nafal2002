@@ -48,7 +48,7 @@ hoby fovavorit ku adalah sebuah bela diri seperti pencak silat yang suda melekat
 <br>
 <p align="center">Here are some of my <br>
   most used social things >~< xoxoxo</p>
-<p align="center"><a href="https://www.instagram.com/nfalmmfdiii_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<p align="center"><a href="https://www.instagram.com/radenmas_2002/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   ></a></p>
 </div>
 <br>
